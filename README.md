@@ -1,12 +1,3 @@
-</h4>বাংলা ইন্টারপ্রেটার</h4>
-<p align="center">
-  <a href="https://team4compilerlab.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-FF0000?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
-
-
-
 <h4 align="center" style="
   font-size: 28px;
   font-weight: 900;
