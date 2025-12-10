@@ -1,9 +1,34 @@
 <p align="center">
   <a href="https://team4compilerlab.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-FF0000?style=for-the-badge&logo=netlify&logoColor=white" />
-      <img src="https://img.shields.io/badge/Live%20Demo-ff0844?style=for-the-badge&logoColor=white">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://team4compilerlab.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🔥 LIVE DEMO-DC2626?style=for-the-badge&logo=netlify&logoColor=white&labelColor=7F1D1D">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://team4compilerlab.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-E50914?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=8A0008">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://team4compilerlab.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/⚡ LIVE DEMO-FF3B30?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8B0000">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://team4compilerlab.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/LIVE%20DEMO-E50914?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=8A0008">
+  </a>
+</p>
+
 
 📌 Bangla Compiler – Project Description
 Bangla Compiler হলো একটি কাস্টম ডিজাইন করা প্রোগ্রামিং ভাষার কম্পাইলার, যা বাংলা কীওয়ার্ড ব্যবহার করে C-style প্রোগ্রামিংকে সহজ-বোধ্য ভাবে উপস্থাপন করে। এই প্রকল্পটি মূলত Compiler Design কোর্সের শিক্ষাগত প্রয়োজনে তৈরি, যেখানে লেক্সিক্যাল অ্যানালিসিস, সিনট্যাক্স অ্যানালিসিস, পার্স ট্রি, ইন্টারপ্রেটেশন, এবং কোড এক্সিকিউশনের মতো মূল ধারণাগুলো বাস্তবে প্রয়োগ করা হয়েছে।
@@ -71,21 +96,17 @@ Output:
 
 
 📐 Compiler Architecture
-┌──────────────────────┐
-│     Source Code       │
-└────────────▲─────────┘
-             │
-┌────────────┴─────────┐
-│   Lexical Analyzer    │  → Tokens
-└────────────▲─────────┘
-             │
-┌────────────┴─────────┐
-│   Syntax Parser       │  → AST
-└────────────▲─────────┘
-             │
-┌────────────┴─────────┐
-│   Interpreter / VM    │  → Output
-└──────────────────────┘
+Source Code
+     ↓
+Lexical Analyzer (Tokenizer)
+     ↓
+Syntax Parser
+     ↓
+Abstract Syntax Tree (AST)
+     ↓
+Interpreter / Executor
+     ↓
+Output
 
 
 🛠 Technologies Used
