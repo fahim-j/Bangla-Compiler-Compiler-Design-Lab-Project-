@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Bangla Interpreter",
+            "type": "shell",
+            "command": "C:\\MinGW\\bin\\gcc.exe",
+            "args": [
+                "d:\\6th Semester\\Mid\\Compiler Design\\Lab\\Code Lab\\Compiler Design Lab\\Project 1 Clean\\Project\\BanglaCodeInterpreter.c",
+                "-o",
+                "d:\\6th Semester\\Mid\\Compiler Design\\Lab\\Code Lab\\Compiler Design Lab\\Project 1 Clean\\Project\\output\\BanglaCodeInterpreter.exe",
+                "-Wall",
+                "-Wextra",
+                "-g3",
+                "-mwindows",
+                "-lgdi32"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}
