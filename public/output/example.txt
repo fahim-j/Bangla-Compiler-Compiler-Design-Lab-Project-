@@ -1,0 +1,17 @@
+সংখ্যা n
+ভাসা x
+ডাবল y
+অক্ষর c
+
+লিখ "Enter integer (only integer works): "
+নাও n
+
+x = 3.14
+y = 2.71828
+c = 'A'
+
+লিখ "----- OUTPUT -----"
+লিখ "Integer = " n
+লিখ "\nFloat = " x
+লিখ "\nDouble = " y
+লিখ "\nCharacter = " c
