@@ -1,31 +1,7 @@
+</h1>বাংলা ইন্টারপ্রেটারh1>
 <p align="center">
   <a href="https://team4compilerlab.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/LIVE%20DEMO-FF0000?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://team4compilerlab.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🔥 LIVE DEMO-DC2626?style=for-the-badge&logo=netlify&logoColor=white&labelColor=7F1D1D">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://team4compilerlab.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-E50914?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=8A0008">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://team4compilerlab.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/⚡ LIVE DEMO-FF3B30?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8B0000">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://team4compilerlab.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE%20DEMO-E50914?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=8A0008">
   </a>
 </p>
 
